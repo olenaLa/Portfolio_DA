@@ -18,3 +18,15 @@ This repository contains SQL scripts for analyzing COVID-19 data using the MySQL
       Analyzes vaccination data and calculates the percentage of the population that has received at least one COVID vaccine.
       Uses temporary tables for data transformation and calculation.
       Creates a view to store data for later visualizations.
+
+
+## 2. Excel project: Bike Purchases Data Analysis
+This project contains an analysis of bike purchases using Excel.
+ ## Description
+   - Cleaning data into a new table:
+      Duplicates were identified and removed
+      Replaced unclear data
+      Age brackets are determined using IF statement with multiple conditions.
+   - Formation of Pivot tables for analysis:
+      Analyzed data on the dependence of purchases on gender, income, and commute distance. Visualizations are created.
+     - Formed a Dashboard based on charts from Pivot tables.
